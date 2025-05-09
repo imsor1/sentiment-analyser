@@ -1,0 +1,4 @@
+sentiment-analyzer/
+├── client/  # Vite + React frontend
+├── server/  # Hono + Cloudflare Workers backend
+└── README.md

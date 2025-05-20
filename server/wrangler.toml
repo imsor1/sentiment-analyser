@@ -1,0 +1,19 @@
+name = "sentiment-analyzer-server"
+main = "src/index.ts"
+compatibility_date = "2023-01-01"
+account_id = "By Sommer Account"
+
+# Cloudflare account email
+# Email: i@setern.com
+
+[vars]
+# Application variables can be defined here
+
+# Custom domain configuration
+routes = [
+  { pattern = "api.ziqer.com", custom_domain = true }
+]
+
+[[routes]]
+pattern = "*"
+cors = true

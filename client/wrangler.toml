@@ -1,0 +1,16 @@
+# Cloudflare Pages configuration
+name = "sentiment-analyzer"
+compatibility_date = "2023-01-01"
+account_id = "By Sommer Account"
+
+# Cloudflare account email
+# Email: i@setern.com
+
+[site]
+bucket = "./dist"
+entry-point = "."
+
+[env.production]
+routes = [
+  { pattern = "ziqer.com", custom_domain = true }
+]

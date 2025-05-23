@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ziqer.com/sitemap.xml
+Sitemap: https://ziqes.com/sitemap.xml

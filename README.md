@@ -1,1 +1,1 @@
-# sentiment-analyser
+# sentiment-analyzer

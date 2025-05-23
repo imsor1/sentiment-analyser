@@ -4,8 +4,8 @@ A web application that analyzes the sentiment of text using a Vite + React front
 
 ## Domain Configuration
 
-- Frontend: [ziqer.com](https://ziqer.com)
-- API: [api.ziqer.com](https://api.ziqer.com)
+- Frontend: [ziqes.com](https://ziqes.com)
+- API: [api.ziqes.com](https://api.ziqes.com)
 
 ## Project Structure
 
